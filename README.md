@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Wanderley Junior  
 
-<!--
-**wanderley-93/wanderley-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | Big Data Enthusiast | Future Data Scientist  
 
-Here are some ideas to get you started:
+I’m passionate about turning data into insights and helping businesses make better decisions.  
+Currently focused on **SQL, Python, and Data Visualization** while building my portfolio with real-world projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 🔍 Senior Big Data Analyst transitioning to **Data Science**  
+- 📊 Experienced with **ETL, SQL, Python, and BI tools**  
+- 📚 Background in **Graphic Design + Postgraduate in Data Science & Big Data**  
+- 🎓 Bachelor’s degree in **Database**
+- 🐶🐱🐱 Proud pet parent of 3
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** SQL | Python | R  
+- **Data & Cloud:** Google Cloud | BigQuery 
+- **Visualization:** Power BI | Excel  
+- **Other:** Git | Jupyter | APIs  
+
+---
+
+## 📬 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/wanderley--junior/)  
+- [Email](mailto:wanderley.o.junior.93@gmail.com)  
+
+---
+
+![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
