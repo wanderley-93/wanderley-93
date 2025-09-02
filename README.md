@@ -28,6 +28,3 @@ Currently focused on **SQL, Python, and Data Visualization** while building my p
 - [LinkedIn](https://www.linkedin.com/in/wanderley--junior/)  
 - [Email](mailto:wanderley.o.junior.93@gmail.com)  
 
----
-
-![Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
