@@ -8,7 +8,7 @@ Currently focused on **SQL, Python, and Data Visualization** while building my p
 ---
 
 ## 🚀 About Me  
-- 🔍 Senior Big Data Analyst transitioning to **Data Science**  
+- 🔍 Senior Data Analyst @ **Lojas Renner S.A.**  
 - 📊 Experienced with **ETL, SQL, Python, and BI tools**  
 - 📚 Background in **Graphic Design + Postgraduate in Data Science & Big Data**  
 - 🎓 Bachelor’s degree in **Database**
